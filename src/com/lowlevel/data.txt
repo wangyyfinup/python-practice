@@ -1,0 +1,4 @@
+Programming is fun\r
+When the work is done\r
+if you wanna make your work also fun: \r
+use Python!
